@@ -1,24 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title xml:lang="English">Gebze Technical University</title>
-    <title-short>AJCC</title-short>
+    <title-short>GTUFBE</title-short>
     <id>http://www.zotero.org/styles/gebze-technical-university</id>
-    <link href="http://www.zotero.org/styles/gebze-technical-university" rel="self"/>
-    <link href="http://www.zotero.org/styles/elsevier-without-titles" rel="template"/>
-    <link href="http://www.scirp.org/journal/ajcc/" rel="documentation"/>
     <contributor>
-      <name>Arunkumar R</name>
-      <uri>http://www.mendeley.com/profiles/arunkumar-r1/</uri>
+      <name>Emrullah E</name>
+      <uri></uri>
     </contributor>
     <category citation-format="numeric"/>
     <category field="science"/>
-    <issn>2167-9495</issn>
-    <eissn>2167-9509</eissn>
-    <summary>A style for American Journal of Climate Change that includes article titles in the reference list</summary>
-    <updated>2023-07-19T07:13:44+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <summary>Gebze Technical University Graduate School of Natural and Applied Sciences Thesis Reference Style</summary>
+    <updated>2023-07-19</updated>
   </info>
   <macro name="author">
     <names variable="author" suffix=" ">
